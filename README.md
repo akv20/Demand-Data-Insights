@@ -1,5 +1,5 @@
 # Demand-Data-Insights
-Drawing insights and make observations from the transactional data and master data provided.
+Drawing insights and make observations from the transactional data and master data.
 
 The objective of this data is to understand the data and supply chain knowledge by looking at how you will draw insights and make observations from the transactional data and master data provided. The data provided was an anonymized data for a large manufacturing and distribution company in India. There were three master data and 12 sales transactional data for each month.
 
